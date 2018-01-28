@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mobile Data Offloading</string>
+    <string name="welcome">Mobile Offloading\nWelcome</string>
+    <string name="title_activity_container">ContainerActivity</string>
+    <string name="title_numerical">Numerical</string>
+    <string name="title_game">Game</string>
+    <string name="title_sorting">Sorting</string>
+    <string name="title_searching">Searching</string>
+    <string name="title_files">Files</string>
+
+    <string name="go">Go!</string>
+    <string name="perform">Perform</string>
+    <string name="containerTVMain">This section will perform a mobile data offloading test on </string>
+    <string name="containerTVMainNumerical">one of the following:</string>
+    <string name="containerTVMainGame">NQueenPuzzle</string>
+    <string name="containerTVMainSorting">QuickSort</string>
+    <string name="containerTVMainSearch">BinarySearch</string>
+    <string name="containerTVMainFiles">CreateWordDocument</string>
+</resources>

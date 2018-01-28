@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_numerical"
+        android:icon="@drawable/deviantart"
+        android:title="@string/title_numerical" />
+
+    <item
+        android:id="@+id/navigation_game"
+        android:icon="@drawable/gamepad_variant"
+        android:title="@string/title_game" />
+
+    <item
+        android:id="@+id/navigation_sorting"
+        android:icon="@drawable/filter"
+        android:title="@string/title_sorting" />
+
+    <item
+        android:id="@+id/navigation_searching"
+        android:icon="@drawable/database_search"
+        android:title="@string/title_searching" />
+
+    <item
+        android:id="@+id/navigation_files"
+        android:icon="@drawable/file_word"
+        android:title="@string/title_files" />
+
+</menu>
