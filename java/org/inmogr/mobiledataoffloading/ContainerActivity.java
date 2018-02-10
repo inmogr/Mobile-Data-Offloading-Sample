@@ -265,7 +265,6 @@ public class ContainerActivity extends AppCompatActivity {
 //            try {
 //                response = new CreateWordDocument().execute(root, "Test" , "This is some text to test");
 //            } catch (Exception empty) { response = ""; }
-            response = "Error caused by Apache";
         }
         // prepare the results for user
         JsonObject res = new JsonObject();
